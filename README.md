@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 <!-- <h3 align="left">About me</h3>
 <p align="left">
 </p> -->
-<h1 align="left">Hey there, I am Bhavya Sachdeva!</h1>
-<p align="left">A Full Stack Developer and DevOps Enthusiasts from India! </p>
+<!-- <h1 align="left">Hey there, I am Bhavya Sachdeva!</h1>
+<p align="left">A Fu!
+ll Stack Developer and DevOps Enthusiasts from India! </p> -->
+![unknown](https://user-images.githubusercontent.com/84725791/167431596-9454f505-b7e6-44c3-8349-45ec4503dacf.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhavya_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavya_58" height="30" width="40" /></a>
