@@ -38,5 +38,5 @@ ll Stack Developer and DevOps Enthusiasts from India! </p> -->
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bhavyastar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bhavyastar" /></a></p><br><br>
 
 <br><br><h3 align="left">My activity graph:</h3>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhavyastar)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bhavya's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhavyastar)](https://github.com/bhavyastar/github-readme-activity-graph)
 
