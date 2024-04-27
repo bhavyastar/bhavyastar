@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="left">Hey there, I am Bhavya Sachdeva!</h1>
 <p align="left">A Fu!
 ll Stack Developer and DevOps Enthusiasts from India! </p> -->
-![unknown](https://user-images.githubusercontent.com/84725791/167431596-9454f505-b7e6-44c3-8349-45ec4503dacf.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
